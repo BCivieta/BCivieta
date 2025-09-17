@@ -1,4 +1,4 @@
-💻 **Desarrolladora Full Stack en crecimiento**, apasionada por unir **creatividad y lógica** en cada proyecto.
+💻 **Desarrolladora Full Stack en crecimiento**, apasionada por unir **creatividad y lógica** en cada proyecto.  
 🎓 Recién titulada en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando un **Curso de Especialización en IA y Big Data**.  
 🚀 Actualmente enfocada en **backend con Node.js** y **frontend con React / Next.js**.  
 
@@ -33,6 +33,6 @@
   🔗 [Repositorio](https://github.com/BCivieta/Switkor)  
 
 - TravelQuest→ App móvil de turismo gamificado con IA.  
-  📌 [Repositorio](https://github.com/BCivieta/TravelQuest)  
+  🔗 [Repositorio](https://github.com/BCivieta/TravelQuest)  
  
 
