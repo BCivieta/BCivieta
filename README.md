@@ -9,7 +9,8 @@
 ## Conecta conmigo
 [![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-blancacivieta.es-blue)](https://blancacivieta.es)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blanca%20Civieta-blue?logo=linkedin)](https://linkedin.com/in/blanca-civieta-bermejo-9104a1348/)   
-[![Email](https://img.shields.io/badge/Email-blancacivieta%40gmail.com-red?logo=gmail)](mailto:blancacivieta@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:blancacivieta@gmail.com)
+ 
 
 
 
