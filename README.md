@@ -1,4 +1,5 @@
-💻 **Desarrolladora Full Stack en crecimiento**, apasionada por unir **creatividad y lógica** en cada proyecto.  
+💻 **Desarrolladora Full Stack en crecimiento**, apasionada por unir **creatividad y lógica** en cada proyecto.
+🎓 Recién titulada en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando un **Curso de Especialización en IA y Big Data**.  
 🚀 Actualmente enfocada en **backend con Node.js** y **frontend con React / Next.js**.  
 
 ---
@@ -6,7 +7,6 @@
 ## 🌐 Conecta conmigo
 [![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-blancacivieta.es-blue)](https://blancacivieta.es)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blanca%20Civieta-blue?logo=linkedin)](https://linkedin.com/in/blanca-civieta-bermejo-9104a1348/)    
-📧 **blancacivieta@gmail.com**
 
 ---
 
@@ -25,8 +25,9 @@
 ---
 
 ## 🚀 Proyectos destacados
-- **[Switkor](https://switkor.blancacivieta.es)** → App web de planificación de entrenamientos personalizados.  
-  📌 [Repositorio](https://github.com/BCivieta/Switkor)  
+- **Switkor** → Aplicación web de planificación de entrenamientos físicos personalizados según **objetivos, nivel y disponibilidad**.  
+  🌍 Disponible online en [switkor.blancacivieta.es](https://switkor.blancacivieta.es)  
+  🔗 [Repositorio](https://github.com/BCivieta/Switkor)  
 
 - TravelQuest→ App móvil de turismo gamificado con IA.  
   📌 [Repositorio](https://github.com/BCivieta/TravelQuest)  
