@@ -2,13 +2,15 @@
 🎓 Recién titulada en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando un **Curso de Especialización en IA y Big Data**.  
 🚀 Actualmente enfocada en **backend con Node.js** y **frontend con React / Next.js**.  
 
----
+
+
 
 ## 🌐 Conecta conmigo
 [![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-blancacivieta.es-blue)](https://blancacivieta.es)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blanca%20Civieta-blue?logo=linkedin)](https://linkedin.com/in/blanca-civieta-bermejo-9104a1348/)    
 
----
+
+
 
 ## 🛠️ Tecnologías principales
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -22,7 +24,8 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
----
+
+
 
 ## 🚀 Proyectos destacados
 - **Switkor** → Aplicación web de planificación de entrenamientos físicos personalizados según **objetivos, nivel y disponibilidad**.  
@@ -31,8 +34,5 @@
 
 - TravelQuest→ App móvil de turismo gamificado con IA.  
   📌 [Repositorio](https://github.com/BCivieta/TravelQuest)  
-
----
-
-✨ Gracias por visitar mi perfil.  
+ 
 
