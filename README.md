@@ -1,18 +1,19 @@
-💻 **Desarrolladora Full Stack en crecimiento** Curiosa, con **ganas de aprender** y enamorada de la posibilidad de ser **creativa y lógica** a la vez.   
+💻 **Desarrolladora Full Stack en crecimiento**.
+🙋🏻‍♀️Curiosa, con **ganas de aprender** y enamorada de la posibilidad de ser **creativa y lógica** a la vez.   
 🎓 Recién titulada en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando un **Curso de Especialización en IA y Big Data**.  
 🚀 Actualmente enfocada en **backend con Node.js** y **frontend con React / Next.js**.  
 
 
 
 
-## 🌐 Conecta conmigo
+## Conecta conmigo
 [![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-blancacivieta.es-blue)](https://blancacivieta.es)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blanca%20Civieta-blue?logo=linkedin)](https://linkedin.com/in/blanca-civieta-bermejo-9104a1348/)    
 
 
 
 
-## 🛠️ Tecnologías principales
+## Tecnologías principales
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -27,7 +28,7 @@
 
 
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 - **Switkor** → Aplicación web de planificación de entrenamientos físicos personalizados según **objetivos, nivel y disponibilidad**.  
   🌍 Disponible online en [switkor.blancacivieta.es](https://switkor.blancacivieta.es)  
   🔗 [Repositorio](https://github.com/BCivieta/Switkor)  
