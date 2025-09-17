@@ -1,4 +1,4 @@
-💻 **Desarrolladora Full Stack en crecimiento**, apasionada por unir **creatividad y lógica** en cada proyecto.  
+💻 **Desarrolladora Full Stack en crecimiento** Curiosa, con **ganas de aprender** y enamorada de la posibilidad de ser **creativa y lógica** a la vez.   
 🎓 Recién titulada en **Desarrollo de Aplicaciones Web (DAW)** y actualmente cursando un **Curso de Especialización en IA y Big Data**.  
 🚀 Actualmente enfocada en **backend con Node.js** y **frontend con React / Next.js**.  
 
